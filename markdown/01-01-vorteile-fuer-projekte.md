@@ -8,4 +8,4 @@ Ihr könnt einen eigenen Server betreiben. Ihr müsst es aber nicht. Ihr könnt 
 
 Der Sinn von Mastodon ist nicht, eure Websites abzulösen! Mastodon kann eure Website ergänzen, um eure Reichweite zu verbessern und um schnelle Rückmeldungen von interessierten Personen und Gruppen zu bekommen. Mastodon kann die Kommentarfunktionen auf euren Website überflüssig machen. Dann müsst ihr diese nicht mehr moderieren und seid vor Spam und Cross-Site Scripting (XSS) attacks geschützt. Das spart euch Arbeit! Und mal ehrlich, auf den meisten Projektseiten sind selten Kommentare oder gar Diskussionen zu finden, - oder? Also wozu der Aufwand?
 
-[zurück zum Index](markdown/00-00-index.md)
+[zurück zum Index](00-00-index.md)

@@ -4,4 +4,4 @@ Du lebst in einem lebendigen Quartier mit spannenden Projekten. Bleib auf dem La
 
 Du hast einen Server mit einem lokalen Bezug, aber kannst, egal wo dein Account ist, mit der ganzen Welt in Kontakt kommen. Dabei behältst du immer die Kontrolle über deine Daten. Du kannst die Lebensdauer deiner Beiträge selbst bestimmen. Jeder Server kann seine eigenen Verhaltensregeln haben und durchsetzen. So kannst du über die Wahl deines Servers sicherstellen, dass du vor Mobbing und Spam geschützt bist.
 
-[zurück zum Index](markdown/00-00-index.md)
+[zurück zum Index](00-00-index.md)

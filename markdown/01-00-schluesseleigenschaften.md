@@ -16,4 +16,4 @@ Schlüsseleigenschaften
 - Es ist kein Marktplatz, um nach Angeboten/Anzeigen durchzusuchen.
 - Es ist kein Newsletterverteiler.
 
-[zurück zum Index](markdown/00-00-index.md)
+[zurück zum Index](00-00-index.md)

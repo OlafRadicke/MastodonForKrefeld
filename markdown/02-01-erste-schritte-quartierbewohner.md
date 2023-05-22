@@ -83,4 +83,4 @@ Es ist nicht vorgesehen, in Mastodon Gruppen zu bilden. Es gibt Drittanbieter wi
 Es ist eine gute Idee und Geste, sich auf dem Server vorzustellen, auf dem man seinen Account angelegt hat. Benutze den Hashtag “#neuhier” und “#krefeld” . Moderatoren und Admins auf deinem Server werden höchstwahrscheinlich deinen Post booten, also an ihre Follower weiterleiten. Es liegt an dir, einen Vorstellungstext zu schreiben, der anderen Lust macht, dir zu folgen!
 
 
-[zurück zum Index](markdown/00-00-index.md)
+[zurück zum Index](00-00-index.md)

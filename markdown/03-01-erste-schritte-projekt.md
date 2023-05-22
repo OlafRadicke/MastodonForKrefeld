@@ -19,4 +19,4 @@ Dann stellt euer Projekt in einem Post mit den Hashtag “#neuhier” und “#kr
 Ihr könnt auch eine Pressemitteilung herausgeben, so dass Journalisten wissen, dass ihr eure Neuigkeiten künftig (auch) über Mastodon bekannt geben werdet. Neben Ankündigungen, von anstehenden Veranstaltungen, solltet ihr auch Berichte über vergangene Veranstaltung veröffentlichen und euch für die Teilnahme und Unterstützung über Mastodon bedanken.  So zeigt ihr anderen, dass euer Projekt noch lebt und etwas bewegt im Quartier. Und natürlich freuen sich eure Follower darüber, wenn ihr auf ihre Kommentare reagiert und Fragen beantwortet!
 
 
-[zurück zum Index](markdown/00-00-index.md)
+[zurück zum Index](00-00-index.md)
