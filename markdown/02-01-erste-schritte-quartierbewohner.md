@@ -1,6 +1,7 @@
 Erste schritte für Quartierbewohner.Innen
 -----------------------------------------
 
+[[__TOC__]]
 ### Was brauche ich, um Mastodon zu benutzen?
 
 #### Website/Browser
