@@ -3,7 +3,9 @@ MISSION
 
 Diese Repository beinhaltet Informationsmaterial mit dem Stadtquartieren erklärt werden soll, wie sie Mastodon für sich nutzen können um ihre Projekte zu pushen.
 
-![Postkarte](pics/postkarte.jpg)
+| ![Postkarte](pics/postkarte.jpg)                           |
+|------------------------------------------------------------|
+| Das ist eine Postkarte, die man drucken und verteilen kann |
 
 [Hier geht es zu Index-Seite](markdown/00-00-index.md)
 
