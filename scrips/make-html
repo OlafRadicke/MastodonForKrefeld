@@ -1,0 +1,11 @@
+#!/bin/bash
+
+set -u
+set -x
+set -e
+
+mkdir -p ./tmp
+mkdir -p ./generate
+cat ./markdown/*.md > ./tmp/single-page.md
+cd ./tmp
+pandoc ./single-page.md --to=html  > ../generate/index.html
