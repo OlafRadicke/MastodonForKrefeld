@@ -1,0 +1,71 @@
+[
+{
+	"uri": "http://start.krefeld.life/02-erste-schritte/02-01-erste-schritte-quartierbewohner/",
+	"title": "Erste schritte für Quartierbewohner.Innen",
+	"tags": null,
+	"description": "",
+	"content": "Was brauche ich, um Mastodon zu benutzen? Website/Browser Du kannst Mastodon direkt in deinem Browser benutzen. Ohne Einschränkungen.\nHandy-App(s) Da Mastodon nicht einer einzelnen Firma gehört, steht es jedem frei, eine eigene App zu programmieren. Deshalb hast du die Qual der Wahl. Hier einige Apps die du dir mal ansehen kannst:\n   Name Sterne Downloads Link     Mastodon 3,3 1 Mio+ play.google.com   Tusky 4,2 100.000+ play.google.com   Fedilab 4,6 10.000+ play.google.com   Megalodon 4,5 5.000+ play.google.com   Moshidon 4,3 500+ play.google.com    Wie baue ich mein eigenes Netzwerk auf? Wenn du frisch angemeldet bist, wird es in deiner “Timeline” noch recht langweilig aussehen. Erst wenn du Accounts folgst, deren Inhalte dich interessieren, wird sich deine Timeline mit interessanten Benachrichtigungen füllen. Die Frage lautet also: Wie finde ich interessante Accounts?\nLokale Timeline Wenn du einen Server ausgewählt hast, der einen Themenschwerpunkt hat, z.B. https://krefeld.life/, kannst du in die lokale Timeline schauen. Hier findest du nur die Beiträge der Accounts dieser Instanz. Also höchstwahrscheinlich wahrscheinlich Beiträge von Accounts, denen der lokale Bezug zu Krefeld wichtig ist. Folge den Accounts, deren Beiträge du interessant findest.\n        Ansicht im Browser    Server mit einem Bezug zu Krefeld Wenn du in lokalen Timelines nach interessanten Accounts durchsuchen willst, sind hier noch einige Server mit Bezug zu Krefeld\n   URL Kommentar     https://krefeld.life/directory Server mit direktem Bezug zu Krefeld   https://nrw.social/directory Da Krefeld in NRW liegt, wirst du auch einige Accounts auf diesem Server finden   https://feedbeat.me/about Hier geht es vorallem um Kultur, aber die Macher stammen aus Krefeld   https://ruhrpott.social/public/local Gut, Krefeld ist nicht Ruhrgebiet, aber nahe bei.   https://ruhr.social/public/local Noch mal Ruhrgebiet    Nach Hashtags suchen Da jeder die freie Wahl hat, wird es auch Accounts geben, die sich mit deinem Quartier beschäftigen, ohne einen Account auf einem Server mit einem Bezug zu deinem lokalen Quartier (Krefeld). Um diese Accounts zu finden, gibt es eine Suchfunktion. Wenn die Autoren Hashtags in ihren Nachrichten verwenden, kannst du sie darüber finden. Umgekehrt gilt dasselbe: Verwende Hashtags, mit deine Beiträge von deiner Zielgruppe gefunden werden!\n        Ansicht im Browser    Accounts mit lokalen Bezug zu Krefeld Hier ein paar accounts als Vorschlag zum Einstieg:\n   Thema Account     Buchladen in Linn eva@krefeld.life   (Katastrophen) Warnmeldungen für Krefeld. FediNINA_Krefeld@social.prepedia.org   Gospelmusik in Krefeld GospelMusik@krefeld.life   Der Jazzkeller Krefeld Jazzkeller@feedbeat.me   Online-Zeitung für Rhein-Ruhr LokalKlick@nrw.social   Folklorefest Krefeld Folklorefest@krefeld.life   Fest ohne Grenzen FestOhneGrenzen@krefeld.life   Die Grünen Krefeld jtkrefelder@gruene.social   Künstlerin Pe@feedbeat.me   ev. Kirche im Ruhrgebiet ruhrPott@kirche.social   Quäker-Andacht in Krefeld quaker@krefeld.life   Lokaler Blogger darestiet@krefeld.life   Lokaler Blogger KRDigital@ruhr.social   Lokaler Blogger martin_kramer@krefeld.life    Virtuelle Gruppen Es ist nicht vorgesehen, in Mastodon Gruppen zu bilden. Es gibt Drittanbieter wie z.B. a.gup.pe die das mit Workaround kompensieren wollen. So gibt es z.B die Gruppe krefeld@a.gup.pe. Wenn du den Account in deinem Beitrag erwähnst, bekommen alle, die diesem Account folgen, deine Nachricht. Diese Option ist aber nicht sehr verbreitet.\nSich vorstellen Es ist eine gute Idee und Geste, sich auf dem Server vorzustellen, auf dem man seinen Account angelegt hat. Benutze den Hashtag “#neuhier” und “#krefeld” . Moderatoren und Admins auf deinem Server werden höchstwahrscheinlich deinen Post booten, also an ihre Follower weiterleiten. Es liegt an dir, einen Vorstellungstext zu schreiben, der anderen Lust macht, dir zu folgen!\n"
+},
+{
+	"uri": "http://start.krefeld.life/01-schluesseleigenschaften/",
+	"title": "Schluesseleigenschaften",
+	"tags": null,
+	"description": "Einstieh in Mastodon im Quartier",
+	"content": "Die wichtigsten Eigenschaften von Mastodon  Es ist einfach und schnell, sich zu vernetzen, Informationen mit anderen zu teilen und Feedback zu bekommen. Dabei ist das System dezentral, selbstverwaltet und unabhängig von einzelnen (Markt-)Playern. Mastodon ist datenschutzkonform (DSGVO) und datensparsam Die Technologie ist OpenSource.  Was mastodon nicht ist  Es ist keine Website, auf der man sich detailliert vorstellt und umfangreiche und statische Texte bereitstellt. Es ist kein Chat-Tool Es ist kein Marktplatz, um nach Angeboten/Anzeigen durchzusuchen. Es ist kein Newsletterverteiler.  "
+},
+{
+	"uri": "http://start.krefeld.life/01-schluesseleigenschaften/01-01-vorteile-fuer-projekte/",
+	"title": "Vorteile aus Sicht von Projekten im Quartier",
+	"tags": null,
+	"description": "",
+	"content": "Über Mastodon kannst du dein Quartier wissen lassen, welche Aktivitäten dein Projekt plant, durchzuführen und ob es ein Erfolg war. Suchmaschinen finden diese Beiträge. Wenn ihr regelmäßig von Mastodon aus auf Artikel eurer Website verweist, wird die Relevanz euer Website im Ranking steigen. Ihr werdet schneller von euren Interessenten in der Suchmaschine gefunden werden. Eure Sichtbarkeit verbessert sich im Netz und eure Bekanntheit im Quartier.\nOft ist es so, dass es andere Projekte im Quartier gibt, die ähnliche gelagerte Ziele oder Interessen haben. Ihr könnt als Projekt auch anderen Projekten folgen. Ihr könnt für euch gegenseitig als Multiplikatoren dienen, indem ihr interessante Informationen von anderen Projekten an eure eigenen Follower (Abonnenten) weitergebt. So entstehen Synergieeffekte zwischen den Projekten. Darüber hinaus erfahrt ihr schneller, wo Projekt-Kooperationen sinnvoll sind. Z.B. dass sich zwei Projekte einen Stand auf einer Veranstaltung teilen, um Kosten- und Personalaufwand zu reduzieren.\nIhr könnt einen eigenen Server betreiben. Ihr müsst es aber nicht. Ihr könnt einen der vielen bereits bestehenden Server benutzen und habt keinen Wartungsaufwand. Die technischen Einstiegshürden sind für euch als Projekt und für eure Follower sehr gering. Solltet ihr euch später dazu entschließen, einen eigenen Server haben zu wollen, ist das kein Problem. Ihr könnt ganz leicht alle eure Follower mitnehmen! Ihr müsst keine unumkehrbaren Entscheidungen treffen.\nDer Sinn von Mastodon ist nicht, eure Websites abzulösen! Mastodon kann eure Website ergänzen, um eure Reichweite zu verbessern und um schnelle Rückmeldungen von interessierten Personen und Gruppen zu bekommen. Mastodon kann die Kommentarfunktionen auf euren Website überflüssig machen. Dann müsst ihr diese nicht mehr moderieren und seid vor Spam und Cross-Site Scripting (XSS) attacks geschützt. Das spart euch Arbeit! Und mal ehrlich, auf den meisten Projektseiten sind selten Kommentare oder gar Diskussionen zu finden, - oder? Also wozu der Aufwand?\n"
+},
+{
+	"uri": "http://start.krefeld.life/02-erste-schritte/",
+	"title": "Erste Schritte",
+	"tags": null,
+	"description": "",
+	"content": "Die wichtigsten Eigenschaften von Mastodon  Es ist einfach und schnell, sich zu vernetzen, Informationen mit anderen zu teilen und Feedback zu bekommen. Dabei ist das System dezentral, selbstverwaltet und unabhängig von einzelnen (Markt-)Playern. Mastodon ist datenschutzkonform (DSGVO) und datensparsam Die Technologie ist OpenSource.  Was mastodon nicht ist  Es ist keine Website, auf der man sich detailliert vorstellt und umfangreiche und statische Texte bereitstellt. Es ist kein Chat-Tool Es ist kein Marktplatz, um nach Angeboten/Anzeigen durchzusuchen. Es ist kein Newsletterverteiler.  "
+},
+{
+	"uri": "http://start.krefeld.life/02-erste-schritte/03-01-erste-schritte-projekt/",
+	"title": "Erste schritte als als Projekt im Quartier",
+	"tags": null,
+	"description": "",
+	"content": "Formal und technisch gibt es bei Accounts keine Unterschiede, ob es sich bei dem Account-Inhaber um ein Projekt oder eine Einzelperson handelt.\nWas brauche ich, um Mastodon zu benutzen? Manche Organisationen bevorzugen es, eigene Server aufzusetzen. Das bringt mehr Aufwand mit sich und ist - gerade für kleine Projekte - nicht notwendig und sinnvoll. Besser ist es, sich einen Server auszusuchen, der thematisch passt. Für Projekte im Kefelder Quartier bietet sich https://krefeld.life/ an. Kirchengemeinden fühlen sich aber vielleicht auch wohler auf dem Server https://kirche.social/ und Umweltprojekte bevorzugen vielleicht auch den Server https://climatejustice.global/ oder https://forfuture.social/ . Auch als Projekt kann man mit seinem Account und seinen Followern später noch jederzeit umziehen. Verwendet also nicht zu viel Zeit auf die Frage, welcher der richtige Server für euch ist, und probiert es einfach aus!\nWichtiger ist die Entscheidung, welches Tool ihr verwendet, um eure Beiträge zu schreiben und anderen zu folgen. Wahrscheinlich werden die Projekt-Accounts mit mehreren Personen betreut, und diese Personen haben vielleicht noch eigene, personenbezogene Accounts. Hier macht es Sinn ein Tool zu verwenden, das mehrere Accounts unterstützt. Das geht gut im Browser und auf dem Handy mit der App Tusky.\nWie baue ich mein eigenes Netzwerk auf? Als Projekt wollt ihr wahrscheinlich in erster Linie, dass möglichst viele euch folgen. Fangt bei euren eigenen Mitgliedern an. Informiere sie über eure Website, E-Mail-Verteiler und dergleichen, dass euer Projekt nun auf Mastodon ist und ihr dort Informationen posten wird.\nDann stellt euer Projekt in einem Post mit den Hashtag “#neuhier” und “#krefeld” vor. Habt ihr euch entschieden, einen eigenen Server aufzusetzen, dann wird wahrscheinlich (noch) niemand von euch Notiz nehmen. Versucht andere Projekte mit ähnlich gelagerten Themen zu finden und bittet sie, eure Vorstellungs-Nachricht zu boostern. Ein Netzwerk lebt vom Geben und Nehmen! Also folgt auch eurerseits Projekten, deren Informationen für eure Projektmitglieder (und Follower) interessant sind und leitet diese Nachrichten weiter (boosten).\nIhr könnt auch eine Pressemitteilung herausgeben, so dass Journalisten wissen, dass ihr eure Neuigkeiten künftig (auch) über Mastodon bekannt geben werdet. Neben Ankündigungen, von anstehenden Veranstaltungen, solltet ihr auch Berichte über vergangene Veranstaltung veröffentlichen und euch für die Teilnahme und Unterstützung über Mastodon bedanken. So zeigt ihr anderen, dass euer Projekt noch lebt und etwas bewegt im Quartier. Und natürlich freuen sich eure Follower darüber, wenn ihr auf ihre Kommentare reagiert und Fragen beantwortet!\n"
+},
+{
+	"uri": "http://start.krefeld.life/01-schluesseleigenschaften/01-02-vorteile-bewohner/",
+	"title": "Vorteile für Bewohner.innen des Quartiers",
+	"tags": null,
+	"description": "",
+	"content": "Du lebst in einem lebendigen Quartier mit spannenden Projekten. Bleib auf dem Laufenden, indem du deinen Projekten auf Mastodon folgst! Das kannst du per Browser oder per App mit deinem Handy. Der Account ist schnell eingerichtet, auch ohne viel Daten preiszugeben. Dabei hast du die Wahl, auf welchem Server du deinen Account einrichtest. Du kannst deinen Account auch jederzeit zu anderen Servern umziehen. Du musst dich und deine Daten nicht an ein Unternehmen ausliefern, dem du nicht traust. Mit Mastodon kannst du auch schnell und einfach mit anderen aus deinem Bewohner.innen im Quartier in Kontakt kommen und dich mit ihnen auszutauschen.\nDu hast einen Server mit einem lokalen Bezug, aber kannst, egal wo dein Account ist, mit der ganzen Welt in Kontakt kommen. Dabei behältst du immer die Kontrolle über deine Daten. Du kannst die Lebensdauer deiner Beiträge selbst bestimmen. Jeder Server kann seine eigenen Verhaltensregeln haben und durchsetzen. So kannst du über die Wahl deines Servers sicherstellen, dass du vor Mobbing und Spam geschützt bist.\n"
+},
+{
+	"uri": "http://start.krefeld.life/03-copy/",
+	"title": "Urheber- und Verwendungsrechte",
+	"tags": null,
+	"description": "",
+	"content": "Dieser Text soll als Landingpage dienen, um Einzelpersonen und Projekten, die noch nie etwas von Mastodon gehört haben, den Einstieg so einfach wie möglich zu machen.\nDieses Werk ist lizenziert unter einer Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz.\n"
+},
+{
+	"uri": "http://start.krefeld.life/categories/",
+	"title": "Categories",
+	"tags": null,
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://start.krefeld.life/",
+	"title": "Mastodon Howto",
+	"tags": null,
+	"description": "Einstieg in Mastodon für das Quartier",
+	"content": "Hier bist du richtig, wenn du wissen willst, wie du Mastodon nutzen kannst, um in deinem Quartier auf dem Laufenden zu bleiben oder wenn du dein Quartier über dein Projekt auf dem Lauffendem halten willst. "
+},
+{
+	"uri": "http://start.krefeld.life/tags/",
+	"title": "Tags",
+	"tags": null,
+	"description": "",
+	"content": ""
+}]

@@ -22,6 +22,21 @@ Erstellen von HTML
 Zum erstellen eines HTML-Dokument wird das Tool pandoc gebracht. Das Script ***scrips/make-html*** erstellt dann mit Hilfe von pandoc das HTML.
 
 
+Erstellen von statischem HTML für die Website
+---------------------------------------------
+
+Installiere dir [Hugo](https://gohugo.io/).
+
+Als themes wurde [Ace documentation
+More from us](https://docs.vantage-design.com/ace/) verwendet.
+
+Wechsle in das Verzeichnis ./hugo-docu. Rufe "hugo" auf.
+Danach hast du im Verzeichnis /public statischen HTML-Code der auf den Webserver übertragen werden
+muss. Jedesmal wenn der Inhalt in /hug-docu/content angepasst wurde, muss der Schritt wiederholt
+werden. Für eine Vorschau, kann der eingebaute Webserver verwendet werden: In dem man "hugo server"
+aufruft.
+
+
 Lizenz
 ------
 
