@@ -16,11 +16,8 @@ Mitarbeit
 
 Die IDE Visual Studio Code mit dem Plugin "Markdown All in One" hilft euch, mit den Markdown-Dokumenten zu arbeiten. Wenn du Verbesserungen hasst, freue ich mich über ein Pull request von dir.
 
-Erstellen von HTML
-------------------
-
-Zum erstellen eines HTML-Dokument wird das Tool pandoc gebracht. Das Script ***scrips/make-html*** erstellt dann mit Hilfe von pandoc das HTML.
-
+Der Inhalt der Dokumentation in MarkDown-Format ist in dem Verzeichnis ***hugo-docu/content*** zu
+finden.
 
 Erstellen von statischem HTML für die Website
 ---------------------------------------------
