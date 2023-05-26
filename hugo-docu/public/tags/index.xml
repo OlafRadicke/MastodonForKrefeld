@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Starte mit krefeld.life</title>
-    <link>https://olafradicke.github.io/tags/</link>
+    <link>https://olafradicke.github.io/MastodonForKrefeld/tags/</link>
     <description>Recent content in Tags on Starte mit krefeld.life</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language><atom:link href="https://olafradicke.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>de-de</language><atom:link href="https://olafradicke.github.io/MastodonForKrefeld/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

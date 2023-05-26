@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Erste Schritte on Starte mit krefeld.life</title>
-    <link>https://olafradicke.github.io/02-erste-schritte/</link>
+    <link>https://olafradicke.github.io/MastodonForKrefeld/02-erste-schritte/</link>
     <description>Recent content in Erste Schritte on Starte mit krefeld.life</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language><atom:link href="https://olafradicke.github.io/02-erste-schritte/index.xml" rel="self" type="application/rss+xml" />
+    <language>de-de</language><atom:link href="https://olafradicke.github.io/MastodonForKrefeld/02-erste-schritte/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Erste schritte als als Projekt im Quartier</title>
-      <link>https://olafradicke.github.io/02-erste-schritte/03-01-erste-schritte-projekt/</link>
+      <link>https://olafradicke.github.io/MastodonForKrefeld/02-erste-schritte/03-01-erste-schritte-projekt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://olafradicke.github.io/02-erste-schritte/03-01-erste-schritte-projekt/</guid>
+      <guid>https://olafradicke.github.io/MastodonForKrefeld/02-erste-schritte/03-01-erste-schritte-projekt/</guid>
       <description>Formal und technisch gibt es bei Accounts keine Unterschiede, ob es sich bei dem Account-Inhaber um ein Projekt oder eine Einzelperson handelt.
 Was brauche ich, um Mastodon zu benutzen? Manche Organisationen bevorzugen es, eigene Server aufzusetzen. Das bringt mehr Aufwand mit sich und ist - gerade für kleine Projekte - nicht notwendig und sinnvoll. Besser ist es, sich einen Server auszusuchen, der thematisch passt. Für Projekte im Kefelder Quartier bietet sich https://krefeld.</description>
     </item>

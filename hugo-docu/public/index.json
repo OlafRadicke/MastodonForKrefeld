@@ -1,167 +1,167 @@
 [
 {
-	"uri": "https://olafradicke.github.io/03-weiterfuehrendes/03-02-accounts/behoerden/",
+	"uri": "https://olafradicke.github.io/MastodonForKrefeld/03-weiterfuehrendes/03-02-accounts/behoerden/",
 	"title": "Behörden",
 	"tags": null,
 	"description": "",
 	"content": " Auswärtiges Amt: AuswaertigesAmt@social.bund.de Behörde: BayerischerLandtag@social.bund.de Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI): bfdi@social.bund.de Bundesgerichtshof: BGH_Bund@social.bund.de Wirtschaft \u0026amp; Klimaschutz: BMWK@social.bund.de Bundesamt für Sicherheit in der Informationstechnik: bsi@social.bund.de Datenschutzkonferenz: dsk@social.bund.de Bundesnetzagentur: Netzausbau@social.bund.de Sachverständigenrat für Integration und Migration: SVR_Migration@social.bund.de Verbraucherzentrale: verbraucherzentrale@social.bund.de Bundesregierung: Bundesregierung@social.bund.de  "
 },
 {
-	"uri": "https://olafradicke.github.io/02-erste-schritte/erste-schritte-bewohner/",
+	"uri": "https://olafradicke.github.io/MastodonForKrefeld/02-erste-schritte/erste-schritte-bewohner/",
 	"title": "Erste schritte für Quartierbewohner.Innen",
 	"tags": null,
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://olafradicke.github.io/01-schluesseleigenschaften/",
+	"uri": "https://olafradicke.github.io/MastodonForKrefeld/01-schluesseleigenschaften/",
 	"title": "Schluesseleigenschaften",
 	"tags": null,
 	"description": "Einstieh in Mastodon im Quartier",
 	"content": "Die wichtigsten Eigenschaften von Mastodon  Es ist einfach und schnell, sich zu vernetzen, Informationen mit anderen zu teilen und Feedback zu bekommen. Dabei ist das System dezentral, selbstverwaltet und unabhängig von einzelnen (Markt-)Playern. Mastodon ist datenschutzkonform (DSGVO) und datensparsam Die Technologie ist OpenSource.  Was mastodon nicht ist  Es ist keine Website, auf der man sich detailliert vorstellt und umfangreiche und statische Texte bereitstellt. Es ist kein Chat-Tool Es ist kein Marktplatz, um nach Angeboten/Anzeigen durchzusuchen. Es ist kein Newsletterverteiler.  "
 },
 {
-	"uri": "https://olafradicke.github.io/01-schluesseleigenschaften/01-01-vorteile-fuer-projekte/",
+	"uri": "https://olafradicke.github.io/MastodonForKrefeld/01-schluesseleigenschaften/01-01-vorteile-fuer-projekte/",
 	"title": "Vorteile aus Sicht von Projekten im Quartier",
 	"tags": null,
 	"description": "",
 	"content": "Über Mastodon kannst du dein Quartier wissen lassen, welche Aktivitäten dein Projekt plant, durchzuführen und ob es ein Erfolg war. Suchmaschinen finden diese Beiträge. Wenn ihr regelmäßig von Mastodon aus auf Artikel eurer Website verweist, wird die Relevanz euer Website im Ranking steigen. Ihr werdet schneller von euren Interessenten in der Suchmaschine gefunden werden. Eure Sichtbarkeit verbessert sich im Netz und eure Bekanntheit im Quartier.\nOft ist es so, dass es andere Projekte im Quartier gibt, die ähnliche gelagerte Ziele oder Interessen haben. Ihr könnt als Projekt auch anderen Projekten folgen. Ihr könnt für euch gegenseitig als Multiplikatoren dienen, indem ihr interessante Informationen von anderen Projekten an eure eigenen Follower (Abonnenten) weitergebt. So entstehen Synergieeffekte zwischen den Projekten. Darüber hinaus erfahrt ihr schneller, wo Projekt-Kooperationen sinnvoll sind. Z.B. dass sich zwei Projekte einen Stand auf einer Veranstaltung teilen, um Kosten- und Personalaufwand zu reduzieren.\nIhr könnt einen eigenen Server betreiben. Ihr müsst es aber nicht. Ihr könnt einen der vielen bereits bestehenden Server benutzen und habt keinen Wartungsaufwand. Die technischen Einstiegshürden sind für euch als Projekt und für eure Follower sehr gering. Solltet ihr euch später dazu entschließen, einen eigenen Server haben zu wollen, ist das kein Problem. Ihr könnt ganz leicht alle eure Follower mitnehmen! Ihr müsst keine unumkehrbaren Entscheidungen treffen.\nDer Sinn von Mastodon ist nicht, eure Websites abzulösen! Mastodon kann eure Website ergänzen, um eure Reichweite zu verbessern und um schnelle Rückmeldungen von interessierten Personen und Gruppen zu bekommen. Mastodon kann die Kommentarfunktionen auf euren Website überflüssig machen. Dann müsst ihr diese nicht mehr moderieren und seid vor Spam und Cross-Site Scripting (XSS) attacks geschützt. Das spart euch Arbeit! Und mal ehrlich, auf den meisten Projektseiten sind selten Kommentare oder gar Diskussionen zu finden, - oder? Also wozu der Aufwand?\n"
 },
 {
-	"uri": "https://olafradicke.github.io/02-erste-schritte/erste-schritte-bewohner/needs/",
+	"uri": "https://olafradicke.github.io/MastodonForKrefeld/02-erste-schritte/erste-schritte-bewohner/needs/",
 	"title": "Was brauche ich, um Mastodon zu benutzen?",
 	"tags": null,
 	"description": "",
 	"content": "Website/Browser Du kannst Mastodon direkt in deinem Browser benutzen. Ohne Einschränkungen.\nHandy-App(s) Da Mastodon nicht einer einzelnen Firma gehört, steht es jedem frei, eine eigene App zu programmieren. Deshalb hast du die Qual der Wahl. Hier einige Apps die du dir mal ansehen kannst:\n   Name Sterne Downloads Link     Mastodon 3,3 1 Mio+ play.google.com   Tusky 4,2 100.000+ play.google.com   Fedilab 4,6 10.000+ play.google.com   Megalodon 4,5 5.000+ play.google.com   Moshidon 4,3 500+ play.google.com     "
 },
 {
-	"uri": "https://olafradicke.github.io/03-weiterfuehrendes/03-01-server/",
+	"uri": "https://olafradicke.github.io/MastodonForKrefeld/03-weiterfuehrendes/03-01-server/",
 	"title": "Weitere Mastodon Server",
 	"tags": null,
 	"description": "",
 	"content": " Bundesbehörden:\thttps://social.bund.de/directory Genossenschaften:\thttps://geno.social/directory Umwelt:\thttps://forfuture.social/explore Umwelt:\thttps://climatejustice.global/directory Christliche Gemeinschaften:\thttps://kirche.social/directory Quaker:\thttps://quakers.social/directory  "
 },
 {
-	"uri": "https://olafradicke.github.io/03-weiterfuehrendes/03-02-accounts/",
+	"uri": "https://olafradicke.github.io/MastodonForKrefeld/03-weiterfuehrendes/03-02-accounts/",
 	"title": "Accounts",
 	"tags": null,
 	"description": "",
 	"content": "Hier ein Paar Accounts thematisch gruppiert.\n"
 },
 {
-	"uri": "https://olafradicke.github.io/02-erste-schritte/",
+	"uri": "https://olafradicke.github.io/MastodonForKrefeld/02-erste-schritte/",
 	"title": "Erste Schritte",
 	"tags": null,
 	"description": "",
 	"content": "Die wichtigsten Eigenschaften von Mastodon  Es ist einfach und schnell, sich zu vernetzen, Informationen mit anderen zu teilen und Feedback zu bekommen. Dabei ist das System dezentral, selbstverwaltet und unabhängig von einzelnen (Markt-)Playern. Mastodon ist datenschutzkonform (DSGVO) und datensparsam Die Technologie ist OpenSource.  Was mastodon nicht ist  Es ist keine Website, auf der man sich detailliert vorstellt und umfangreiche und statische Texte bereitstellt. Es ist kein Chat-Tool Es ist kein Marktplatz, um nach Angeboten/Anzeigen durchzusuchen. Es ist kein Newsletterverteiler.  "
 },
 {
-	"uri": "https://olafradicke.github.io/02-erste-schritte/03-01-erste-schritte-projekt/",
+	"uri": "https://olafradicke.github.io/MastodonForKrefeld/02-erste-schritte/03-01-erste-schritte-projekt/",
 	"title": "Erste schritte als als Projekt im Quartier",
 	"tags": null,
 	"description": "",
 	"content": "Formal und technisch gibt es bei Accounts keine Unterschiede, ob es sich bei dem Account-Inhaber um ein Projekt oder eine Einzelperson handelt.\nWas brauche ich, um Mastodon zu benutzen? Manche Organisationen bevorzugen es, eigene Server aufzusetzen. Das bringt mehr Aufwand mit sich und ist - gerade für kleine Projekte - nicht notwendig und sinnvoll. Besser ist es, sich einen Server auszusuchen, der thematisch passt. Für Projekte im Kefelder Quartier bietet sich https://krefeld.life/ an. Kirchengemeinden fühlen sich aber vielleicht auch wohler auf dem Server https://kirche.social/ und Umweltprojekte bevorzugen vielleicht auch den Server https://climatejustice.global/ oder https://forfuture.social/ . Auch als Projekt kann man mit seinem Account und seinen Followern später noch jederzeit umziehen. Verwendet also nicht zu viel Zeit auf die Frage, welcher der richtige Server für euch ist, und probiert es einfach aus!\nWichtiger ist die Entscheidung, welches Tool ihr verwendet, um eure Beiträge zu schreiben und anderen zu folgen. Wahrscheinlich werden die Projekt-Accounts mit mehreren Personen betreut, und diese Personen haben vielleicht noch eigene, personenbezogene Accounts. Hier macht es Sinn ein Tool zu verwenden, das mehrere Accounts unterstützt. Das geht gut im Browser und auf dem Handy mit der App Tusky.\nWie baue ich mein eigenes Netzwerk auf? Als Projekt wollt ihr wahrscheinlich in erster Linie, dass möglichst viele euch folgen. Fangt bei euren eigenen Mitgliedern an. Informiere sie über eure Website, E-Mail-Verteiler und dergleichen, dass euer Projekt nun auf Mastodon ist und ihr dort Informationen posten wird.\nDann stellt euer Projekt in einem Post mit den Hashtag “#neuhier” und “#krefeld” vor. Habt ihr euch entschieden, einen eigenen Server aufzusetzen, dann wird wahrscheinlich (noch) niemand von euch Notiz nehmen. Versucht andere Projekte mit ähnlich gelagerten Themen zu finden und bittet sie, eure Vorstellungs-Nachricht zu boostern. Ein Netzwerk lebt vom Geben und Nehmen! Also folgt auch eurerseits Projekten, deren Informationen für eure Projektmitglieder (und Follower) interessant sind und leitet diese Nachrichten weiter (boosten).\nIhr könnt auch eine Pressemitteilung herausgeben, so dass Journalisten wissen, dass ihr eure Neuigkeiten künftig (auch) über Mastodon bekannt geben werdet. Neben Ankündigungen, von anstehenden Veranstaltungen, solltet ihr auch Berichte über vergangene Veranstaltung veröffentlichen und euch für die Teilnahme und Unterstützung über Mastodon bedanken. So zeigt ihr anderen, dass euer Projekt noch lebt und etwas bewegt im Quartier. Und natürlich freuen sich eure Follower darüber, wenn ihr auf ihre Kommentare reagiert und Fragen beantwortet!\n"
 },
 {
-	"uri": "https://olafradicke.github.io/03-weiterfuehrendes/03-02-accounts/forschung/",
+	"uri": "https://olafradicke.github.io/MastodonForKrefeld/03-weiterfuehrendes/03-02-accounts/forschung/",
 	"title": "Forschung",
 	"tags": null,
 	"description": "",
 	"content": " Deutscher Wetterdienst: DeutscherWetterdienst@social.bund.de Deutschen Zentrums für Luft- und Raumfahrt (DLR): dlr_next@social.bund.de Helmholtz-Gemeinschaft: helmholtz@helmholtz.social Helmholtz-Zentrum Hereon: hereon@helmholtz.social Lilith Wittmann: Lilith@chaos.social Prof. Stefan Rahmstorf: rahmstorf@fediscience.org Robert Koch-Institut: RKI@social.bund.de Sebastian Wilken: sebwilken@mastodon.social Professor für Regenerative Energiesysteme (HTW Berlin): VQuaschning@mastodon.green  "
 },
 {
-	"uri": "https://olafradicke.github.io/01-schluesseleigenschaften/01-02-vorteile-bewohner/",
+	"uri": "https://olafradicke.github.io/MastodonForKrefeld/01-schluesseleigenschaften/01-02-vorteile-bewohner/",
 	"title": "Vorteile für Bewohner.innen des Quartiers",
 	"tags": null,
 	"description": "",
 	"content": "Du lebst in einem lebendigen Quartier mit spannenden Projekten. Bleib auf dem Laufenden, indem du deinen Projekten auf Mastodon folgst! Das kannst du per Browser oder per App mit deinem Handy. Der Account ist schnell eingerichtet, auch ohne viel Daten preiszugeben. Dabei hast du die Wahl, auf welchem Server du deinen Account einrichtest. Du kannst deinen Account auch jederzeit zu anderen Servern umziehen. Du musst dich und deine Daten nicht an ein Unternehmen ausliefern, dem du nicht traust. Mit Mastodon kannst du auch schnell und einfach mit anderen aus deinem Bewohner.innen im Quartier in Kontakt kommen und dich mit ihnen auszutauschen.\nDu hast einen Server mit einem lokalen Bezug, aber kannst, egal wo dein Account ist, mit der ganzen Welt in Kontakt kommen. Dabei behältst du immer die Kontrolle über deine Daten. Du kannst die Lebensdauer deiner Beiträge selbst bestimmen. Jeder Server kann seine eigenen Verhaltensregeln haben und durchsetzen. So kannst du über die Wahl deines Servers sicherstellen, dass du vor Mobbing und Spam geschützt bist.\n"
 },
 {
-	"uri": "https://olafradicke.github.io/02-erste-schritte/erste-schritte-bewohner/networking/",
+	"uri": "https://olafradicke.github.io/MastodonForKrefeld/02-erste-schritte/erste-schritte-bewohner/networking/",
 	"title": "Wie baue ich mein eigenes Netzwerk auf?",
 	"tags": null,
 	"description": "",
 	"content": "Wenn du frisch angemeldet bist, wird es in deiner “Timeline” noch recht langweilig aussehen. Erst wenn du Accounts folgst, deren Inhalte dich interessieren, wird sich deine Timeline mit interessanten Benachrichtigungen füllen. Die Frage lautet also: Wie finde ich interessante Accounts? Lokale Timeline Wenn du einen Server ausgewählt hast, der einen Themenschwerpunkt hat, z.B. https://krefeld.life/, kannst du in die lokale Timeline schauen. Hier findest du nur die Beiträge der Accounts dieser Instanz. Also höchstwahrscheinlich wahrscheinlich Beiträge von Accounts, denen der lokale Bezug zu Krefeld wichtig ist. Folge den Accounts, deren Beiträge du interessant findest.\n        Ansicht im Browser    Server mit einem Bezug zu Krefeld Wenn du in lokalen Timelines nach interessanten Accounts durchsuchen willst, sind hier noch einige Server mit Bezug zu Krefeld\n   URL Kommentar     https://krefeld.life/directory Server mit direktem Bezug zu Krefeld   https://nrw.social/directory Da Krefeld in NRW liegt, wirst du auch einige Accounts auf diesem Server finden   https://feedbeat.me/about Hier geht es vorallem um Kultur, aber die Macher stammen aus Krefeld   https://ruhrpott.social/public/local Gut, Krefeld ist nicht Ruhrgebiet, aber nahe bei.   https://ruhr.social/public/local Noch mal Ruhrgebiet     Nach Hashtags suchen Da jeder die freie Wahl hat, wird es auch Accounts geben, die sich mit deinem Quartier beschäftigen, ohne einen Account auf einem Server mit einem Bezug zu deinem lokalen Quartier (Krefeld). Um diese Accounts zu finden, gibt es eine Suchfunktion. Wenn die Autoren Hashtags in ihren Nachrichten verwenden, kannst du sie darüber finden. Umgekehrt gilt dasselbe: Verwende Hashtags, mit deine Beiträge von deiner Zielgruppe gefunden werden!\n        Ansicht im Browser    Accounts mit lokalen Bezug zu Krefeld Hier ein paar accounts als Vorschlag zum Einstieg:\n   Thema Account     Buchladen in Linn eva@krefeld.life   (Katastrophen) Warnmeldungen für Krefeld. FediNINA_Krefeld@social.prepedia.org   Gospelmusik in Krefeld GospelMusik@krefeld.life   Der Jazzkeller Krefeld Jazzkeller@feedbeat.me   Online-Zeitung für Rhein-Ruhr LokalKlick@nrw.social   Folklorefest Krefeld Folklorefest@krefeld.life   Fest ohne Grenzen FestOhneGrenzen@krefeld.life   Die Grünen Krefeld jtkrefelder@gruene.social   Künstlerin Pe@feedbeat.me   ev. Kirche im Ruhrgebiet ruhrPott@kirche.social   Quäker-Andacht in Krefeld quaker@krefeld.life   Lokaler Blogger darestiet@krefeld.life   Lokaler Blogger KRDigital@ruhr.social   Lokaler Blogger martin_kramer@krefeld.life     Virtuelle Gruppen Es ist nicht vorgesehen, in Mastodon Gruppen zu bilden. Es gibt Drittanbieter wie z.B. a.gup.pe die das mit Workaround kompensieren wollen. So gibt es z.B die Gruppe krefeld@a.gup.pe. Wenn du den Account in deinem Beitrag erwähnst, bekommen alle, die diesem Account folgen, deine Nachricht. Diese Option ist aber nicht sehr verbreitet.\nSich vorstellen Es ist eine gute Idee und Geste, sich auf dem Server vorzustellen, auf dem man seinen Account angelegt hat. Benutze den Hashtag “#neuhier” und “#krefeld” . Moderatoren und Admins auf deinem Server werden höchstwahrscheinlich deinen Post booten, also an ihre Follower weiterleiten. Es liegt an dir, einen Vorstellungstext zu schreiben, der anderen Lust macht, dir zu folgen!\n"
 },
 {
-	"uri": "https://olafradicke.github.io/03-weiterfuehrendes/03-02-accounts/fun/",
+	"uri": "https://olafradicke.github.io/MastodonForKrefeld/03-weiterfuehrendes/03-02-accounts/fun/",
 	"title": "Spass und Unterhaltung",
 	"tags": null,
 	"description": "",
 	"content": " Der Postillon: derpostillon@mastodon.social Comic: kplx@mastodon.social Marc-Uwe Kling: marcuwekling@cultur.social Nico Semsrott: nicosemsrott@mastodon.social Autor, Musiker, Filmemacher, Cartoonist: ralphruthe@troet.cafe  "
 },
 {
-	"uri": "https://olafradicke.github.io/03-weiterfuehrendes/",
+	"uri": "https://olafradicke.github.io/MastodonForKrefeld/03-weiterfuehrendes/",
 	"title": "Weiterführendes",
 	"tags": null,
 	"description": "",
 	"content": "Hier sind noch ein Paar Accounts und Server, die keinen Bezug zu Krefeld haben, aber vielleicht trotzdem interessant für dich sind.\n"
 },
 {
-	"uri": "https://olafradicke.github.io/03-weiterfuehrendes/03-02-accounts/ngo/",
+	"uri": "https://olafradicke.github.io/MastodonForKrefeld/03-weiterfuehrendes/03-02-accounts/ngo/",
 	"title": "NGOs",
 	"tags": null,
 	"description": "",
 	"content": " abgeordnetenwatch.de: a_watch@bewegung.social Amadeu Antonio Stiftung: amadeuantonio@troet.cafe Letzte Generation: AufstandLastGen@climatejustice.social Auschwitz Memorial: auschwitzmuseum@mastodon.world Bahnkunden-Verband: bahnkundenv@mastodon.social Digitalcourage: digitalcourage@digitalcourage.social Essener Fahrrad-Initiative: efi@nrw.social Fridays for Future Germany: fff@chaos.social Cooperative Cloud Computing: hostsharing@geno.social LobbyControl: lobbycontrol@bewegung.social Parents For Future: parents4future@climatejustice.global Fahrgastverband PRO BAHN: PRO_BAHN@mastodon.social Scientists for Future: S4F@climatejustice.global Verbraucherzentrale BW: verbraucherzentrale@xn--baw-joa.social WWF Deutschland: wwf_deutschland@climatejustice.social  "
 },
 {
-	"uri": "https://olafradicke.github.io/04-copy/",
+	"uri": "https://olafradicke.github.io/MastodonForKrefeld/04-copy/",
 	"title": "Urheber- und Verwendungsrechte",
 	"tags": null,
 	"description": "",
 	"content": "Dieser Text soll als Landingpage dienen, um Einzelpersonen und Projekten, die noch nie etwas von Mastodon gehört haben, den Einstieg so einfach wie möglich zu machen.\nDieses Werk ist lizenziert unter einer Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz.\n"
 },
 {
-	"uri": "https://olafradicke.github.io/03-weiterfuehrendes/03-02-accounts/opensource/",
+	"uri": "https://olafradicke.github.io/MastodonForKrefeld/03-weiterfuehrendes/03-02-accounts/opensource/",
 	"title": "Open Source",
 	"tags": null,
 	"description": "",
 	"content": " Free Software Foundation: fsf@hostux.social Free Software Foundation Europe: fsfe@mastodon.social Libreoffice: libreoffice@fosstodon.org User Count Bot: mastodonusercount@mastodon.social  "
 },
 {
-	"uri": "https://olafradicke.github.io/03-weiterfuehrendes/03-02-accounts/politik/",
+	"uri": "https://olafradicke.github.io/MastodonForKrefeld/03-weiterfuehrendes/03-02-accounts/politik/",
 	"title": "Politik",
 	"tags": null,
 	"description": "",
 	"content": " Marina Weisband: afelia@chaos.social DIE LINKE. Sachsen: dielinke_sachsen@don.linxx.net Grüne Jugend Netzpolitik: gjnetzpolitik@gruene.social Greta Thunberg: gretathunberg@mastodon.nu Grüne im Bundestag: GrueneBundestag@gruene.social GRÜNE NRW: gruenenrw@gruene.social Guido Kühn: GuidoKuehn@mastodon.social Luisa Neubauer: luisaneubauer@forfuture.social Partei der Humanisten: parteiderhumanisten@social.diehumanisten.de SPD-Fraktion im Bundestag: spdbt@twtr.plus Verband Deutscher Verkehrsunternehmen: vdv@social.cologne Volt NRW: volt@nrw.social Raul Krauthausen: RaulKrauthausen@mastodon.cloud Ulrich Kelber: ulrichkelber@bonn.social Volksverpetzer: Volksverpetzer@digitalcourage.social  "
 },
 {
-	"uri": "https://olafradicke.github.io/03-weiterfuehrendes/03-02-accounts/news/",
+	"uri": "https://olafradicke.github.io/MastodonForKrefeld/03-weiterfuehrendes/03-02-accounts/news/",
 	"title": "Verlage und News",
 	"tags": null,
 	"description": "",
 	"content": " ZDF: ZDF@zdf.social DER STANDARD: derStandard@derstandard.at Kirchennachrichten für eine neue Generation: eulemagazin@mastodon.social Frankfurter Rundschau: FR@frankfurt.social Journalismus, Monitor und mehr: georgrestle@mastodon.social News rund um Technik, IT und Digitales.: heiseonline@social.heise.de Jan Böhmermann: janboehm@edi.social nd.Aktuell: ndaktuell@troet.cafe Reclam Verlag: reclamverlag@literatur.social t3n – digital pioneers: t3n@t3n.social taz: tazgetroete@mastodon.social Digitalmedium: tonline@mastodon.social  "
 },
 {
-	"uri": "https://olafradicke.github.io/03-weiterfuehrendes/03-02-accounts/christlich/",
+	"uri": "https://olafradicke.github.io/MastodonForKrefeld/03-weiterfuehrendes/03-02-accounts/christlich/",
 	"title": "Christlicher Glaube",
 	"tags": null,
 	"description": "",
 	"content": " Ev. Kirche im Ruhrgebiet: ruhrPott@kirche.social Christians For Future Berlin: Christians4FutureBerlinBrandbg@mastodon.green  "
 },
 {
-	"uri": "https://olafradicke.github.io/03-weiterfuehrendes/03-02-accounts/quaker/",
+	"uri": "https://olafradicke.github.io/MastodonForKrefeld/03-weiterfuehrendes/03-02-accounts/quaker/",
 	"title": "Quäker",
 	"tags": null,
 	"description": "",
 	"content": " Quakers in Britain: BritishQuakers@mstdn.social Canberra \u0026amp; Region Quakers: CanberraRegionQuakers@quakers.social Friends Publishing: friendsjournal@quakers.social OxfordFriends: OxfordFriends@mstdn.social A Quaker study, retreat, and conference center: pendlehillusa@quakers.social Quäker-Andacht in Krefeld: quaker@krefeld.life Quaker Concern for Animals: quakerconcernforanimals@mastodonapp.uk Virtuellee Quaker-Gruppe: quakers@a.gup.pe Französische Jahresversammlung: QuakersenFrance@mastodon.social  "
 },
 {
-	"uri": "https://olafradicke.github.io/categories/",
+	"uri": "https://olafradicke.github.io/MastodonForKrefeld/categories/",
 	"title": "Categories",
 	"tags": null,
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "https://olafradicke.github.io/",
+	"uri": "https://olafradicke.github.io/MastodonForKrefeld/",
 	"title": "Mastodon Howto",
 	"tags": null,
 	"description": "Einstieg in Mastodon für das Quartier",
 	"content": "Hier bist du richtig, wenn du wissen willst, wie du Mastodon nutzen kannst, um in deinem Quartier auf dem Laufenden zu bleiben oder wenn du dein Quartier über dein Projekt auf dem Lauffendem halten willst. "
 },
 {
-	"uri": "https://olafradicke.github.io/tags/",
+	"uri": "https://olafradicke.github.io/MastodonForKrefeld/tags/",
 	"title": "Tags",
 	"tags": null,
 	"description": "",
