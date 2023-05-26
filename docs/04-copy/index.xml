@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Urheber- und Verwendungsrechte on Starte mit krefeld.life</title>
-    <link>http://start.krefeld.life/04-copy/</link>
+    <link>https://olafradicke.github.io/04-copy/</link>
     <description>Recent content in Urheber- und Verwendungsrechte on Starte mit krefeld.life</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language><atom:link href="http://start.krefeld.life/04-copy/index.xml" rel="self" type="application/rss+xml" />
+    <language>de-de</language><atom:link href="https://olafradicke.github.io/04-copy/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

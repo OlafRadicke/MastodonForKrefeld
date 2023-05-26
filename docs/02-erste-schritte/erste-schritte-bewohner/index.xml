@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Erste schritte für Quartierbewohner.Innen on Starte mit krefeld.life</title>
-    <link>http://start.krefeld.life/02-erste-schritte/erste-schritte-bewohner/</link>
+    <link>https://olafradicke.github.io/02-erste-schritte/erste-schritte-bewohner/</link>
     <description>Recent content in Erste schritte für Quartierbewohner.Innen on Starte mit krefeld.life</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language><atom:link href="http://start.krefeld.life/02-erste-schritte/erste-schritte-bewohner/index.xml" rel="self" type="application/rss+xml" />
+    <language>de-de</language><atom:link href="https://olafradicke.github.io/02-erste-schritte/erste-schritte-bewohner/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Was brauche ich, um Mastodon zu benutzen?</title>
-      <link>http://start.krefeld.life/02-erste-schritte/erste-schritte-bewohner/needs/</link>
+      <link>https://olafradicke.github.io/02-erste-schritte/erste-schritte-bewohner/needs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://start.krefeld.life/02-erste-schritte/erste-schritte-bewohner/needs/</guid>
+      <guid>https://olafradicke.github.io/02-erste-schritte/erste-schritte-bewohner/needs/</guid>
       <description>Website/Browser Du kannst Mastodon direkt in deinem Browser benutzen. Ohne Einschränkungen.
 Handy-App(s) Da Mastodon nicht einer einzelnen Firma gehört, steht es jedem frei, eine eigene App zu programmieren. Deshalb hast du die Qual der Wahl. Hier einige Apps die du dir mal ansehen kannst:
    Name Sterne Downloads Link     Mastodon 3,3 1 Mio+ play.google.com   Tusky 4,2 100.000+ play.google.com   Fedilab 4,6 10.</description>
@@ -19,10 +19,10 @@ Handy-App(s) Da Mastodon nicht einer einzelnen Firma gehört, steht es jedem fre
     
     <item>
       <title>Wie baue ich mein eigenes Netzwerk auf?</title>
-      <link>http://start.krefeld.life/02-erste-schritte/erste-schritte-bewohner/networking/</link>
+      <link>https://olafradicke.github.io/02-erste-schritte/erste-schritte-bewohner/networking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://start.krefeld.life/02-erste-schritte/erste-schritte-bewohner/networking/</guid>
+      <guid>https://olafradicke.github.io/02-erste-schritte/erste-schritte-bewohner/networking/</guid>
       <description>Wenn du frisch angemeldet bist, wird es in deiner “Timeline” noch recht langweilig aussehen. Erst wenn du Accounts folgst, deren Inhalte dich interessieren, wird sich deine Timeline mit interessanten Benachrichtigungen füllen. Die Frage lautet also: Wie finde ich interessante Accounts? Lokale Timeline Wenn du einen Server ausgewählt hast, der einen Themenschwerpunkt hat, z.B. https://krefeld.life/, kannst du in die lokale Timeline schauen. Hier findest du nur die Beiträge der Accounts dieser Instanz.</description>
     </item>
     
