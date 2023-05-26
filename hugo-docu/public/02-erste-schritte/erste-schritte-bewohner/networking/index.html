@@ -4,14 +4,11 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
-    <meta name="description" content="Einstieh in Mastodon im Quartier">
-    
-    <link rel="alternate" type="application/rss+xml" href="http://start.krefeld.life/01-schluesseleigenschaften/index.xml" title="Starte mit krefeld.life" />
-    <link rel="canonical" href="http://start.krefeld.life/01-schluesseleigenschaften/">
+    <link rel="canonical" href="http://start.krefeld.life/02-erste-schritte/erste-schritte-bewohner/networking/">
 
     <title>
         
-        Schluesseleigenschaften | Starte mit krefeld.life
+        Wie baue ich mein eigenes Netzwerk auf? | Starte mit krefeld.life
         
     </title>
 
@@ -57,9 +54,6 @@
               </ul>
             </div>
     </div>
-    <div class="feed-icons">
-            <a href="http://start.krefeld.life/01-schluesseleigenschaften/index.xml"><img src="/img/feed-icon.svg" alt="RSS feed" /></a>
-        </div>
     </nav>
 <div class="container-fluid">
             <div class="row">
@@ -77,7 +71,7 @@
         
 
          <ul class="navbar-nav flex-column pt-3">
-    <li data-nav-id="/01-schluesseleigenschaften/" class="nav-item my-1 parent active haschildren
+    <li data-nav-id="/01-schluesseleigenschaften/" class="nav-item my-1 haschildren
         ">
         
         
@@ -102,14 +96,14 @@
         </li>
         </ul>
     </li>
-    <li data-nav-id="/02-erste-schritte/" class="nav-item my-1 haschildren
+    <li data-nav-id="/02-erste-schritte/" class="nav-item my-1 parent haschildren
         ">
         
         
           <a class="nav-link p-0" href="/02-erste-schritte/"><h6>Erste Schritte</h6></a>
         
         <ul class="list-unstyled ml-2">
-    <li data-nav-id="/02-erste-schritte/erste-schritte-bewohner/" class="nav-item my-1 haschildren
+    <li data-nav-id="/02-erste-schritte/erste-schritte-bewohner/" class="nav-item my-1 parent haschildren
         ">
         
         
@@ -124,7 +118,7 @@
                   </a>
                 
         </li>
-        <li data-nav-id="/02-erste-schritte/erste-schritte-bewohner/networking/" class="nav-item my-1">
+        <li data-nav-id="/02-erste-schritte/erste-schritte-bewohner/networking/" class="nav-item my-1 active">
                 
                 
                   <a href="/02-erste-schritte/erste-schritte-bewohner/networking/" class="nav-link p-0">
@@ -258,11 +252,12 @@
                 <div class="docs-toc large order-lg-2 order-md-0 order-xs-1 col-12 col-lg-2 col-xl-2 position-sticky border-left"><div class="docs-toc">
 	<nav id="TableOfContents">
   <ul>
-    <li>
-      <ul>
-        <li></li>
-      </ul>
-    </li>
+    <li><a href="#lokale-timeline">Lokale Timeline</a></li>
+    <li><a href="#server-mit-einem-bezug-zu-krefeld">Server mit einem Bezug zu Krefeld</a></li>
+    <li><a href="#nach-hashtags-suchen">Nach Hashtags suchen</a></li>
+    <li><a href="#accounts-mit-lokalen-bezug-zu-krefeld">Accounts mit lokalen Bezug zu Krefeld</a></li>
+    <li><a href="#virtuelle-gruppen">Virtuelle Gruppen</a></li>
+    <li><a href="#sich-vorstellen">Sich vorstellen</a></li>
   </ul>
 </nav>
 </div>
@@ -271,7 +266,7 @@
                 
 
 <div class="d-flex flex-column">
-    <h1 class="js-title">Schluesseleigenschaften</h1>
+    <h1 class="js-title">Wie baue ich mein eigenes Netzwerk auf?</h1>
     <div class="d-flex align-items-center">
         
     </div>
@@ -280,20 +275,152 @@
 <hr>
 
 
-<h4 id="die-wichtigsten-eigenschaften-von-mastodon">Die wichtigsten Eigenschaften von Mastodon</h4>
-<ul>
-<li>Es ist einfach und schnell, sich zu vernetzen, Informationen mit anderen zu teilen und Feedback zu bekommen.</li>
-<li>Dabei ist das System dezentral, selbstverwaltet und unabhängig von einzelnen (Markt-)Playern.</li>
-<li>Mastodon ist datenschutzkonform (DSGVO) und datensparsam</li>
-<li>Die Technologie ist OpenSource.</li>
-</ul>
-<h4 id="was-mastodon-nicht-ist">Was mastodon nicht ist</h4>
-<ul>
-<li>Es ist keine Website, auf der man sich detailliert vorstellt und umfangreiche und statische Texte bereitstellt.</li>
-<li>Es ist kein Chat-Tool</li>
-<li>Es ist kein Marktplatz, um nach Angeboten/Anzeigen durchzusuchen.</li>
-<li>Es ist kein Newsletterverteiler.</li>
-</ul>
+<p class="lead">
+    Wenn du frisch angemeldet bist, wird es in deiner “Timeline” noch recht langweilig aussehen. Erst wenn du Accounts folgst, deren Inhalte dich interessieren, wird sich deine Timeline mit interessanten Benachrichtigungen füllen. Die Frage lautet also: Wie finde ich interessante Accounts?
+</p>
+
+<h2 id="lokale-timeline">Lokale Timeline</h2>
+<p>Wenn du einen Server ausgewählt hast, der einen Themenschwerpunkt hat, z.B. <a href="https://krefeld.life/">https://krefeld.life/</a>, kannst du in die lokale Timeline schauen. Hier findest du nur die Beiträge der Accounts dieser Instanz. Also höchstwahrscheinlich wahrscheinlich Beiträge von Accounts, denen der lokale Bezug zu Krefeld wichtig ist. Folge den Accounts, deren Beiträge du interessant findest.</p>
+<table>
+<thead>
+<tr>
+<th><img src="../../../pics/local-timeline.png" alt="local timeline"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ansicht im Browser</td>
+</tr>
+</tbody>
+</table>
+<h2 id="server-mit-einem-bezug-zu-krefeld">Server mit einem Bezug zu Krefeld</h2>
+<p>Wenn du in lokalen Timelines nach interessanten Accounts durchsuchen willst, sind hier noch einige Server mit Bezug zu Krefeld</p>
+
+<div class="table table-striped" role="alert">
+    <table>
+<thead>
+<tr>
+<th>URL</th>
+<th>Kommentar</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://krefeld.life/directory">https://krefeld.life/directory</a></td>
+<td>Server mit direktem Bezug zu Krefeld</td>
+</tr>
+<tr>
+<td><a href="https://nrw.social/directory">https://nrw.social/directory</a></td>
+<td>Da Krefeld in NRW liegt, wirst du auch einige Accounts auf diesem Server finden</td>
+</tr>
+<tr>
+<td><a href="https://feedbeat.me/about">https://feedbeat.me/about</a></td>
+<td>Hier geht es vorallem um Kultur, aber die Macher stammen aus Krefeld</td>
+</tr>
+<tr>
+<td><a href="https://ruhrpott.social/public/local">https://ruhrpott.social/public/local</a></td>
+<td>Gut, Krefeld ist nicht Ruhrgebiet, aber nahe bei.</td>
+</tr>
+<tr>
+<td><a href="https://ruhr.social/public/local">https://ruhr.social/public/local</a></td>
+<td>Noch mal Ruhrgebiet</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+<h2 id="nach-hashtags-suchen">Nach Hashtags suchen</h2>
+<p>Da jeder die freie Wahl hat, wird es auch Accounts geben, die sich mit deinem Quartier beschäftigen, ohne einen Account auf einem Server mit einem Bezug zu deinem lokalen Quartier (Krefeld). Um diese Accounts zu finden, gibt es eine Suchfunktion. Wenn die Autoren Hashtags in ihren Nachrichten verwenden, kannst du sie darüber finden. Umgekehrt gilt dasselbe: Verwende Hashtags, mit deine Beiträge von deiner Zielgruppe gefunden werden!</p>
+<table>
+<thead>
+<tr>
+<th><img src="../../../pics/hashtags.png" alt="local timeline"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ansicht im Browser</td>
+</tr>
+</tbody>
+</table>
+<h2 id="accounts-mit-lokalen-bezug-zu-krefeld">Accounts mit lokalen Bezug zu Krefeld</h2>
+<p>Hier ein paar accounts als Vorschlag zum Einstieg:</p>
+
+<div class="table table-striped" role="alert">
+    <table>
+<thead>
+<tr>
+<th>Thema</th>
+<th>Account</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Buchladen in Linn</td>
+<td><a href="mailto:eva@krefeld.life">eva@krefeld.life</a></td>
+</tr>
+<tr>
+<td>(Katastrophen) Warnmeldungen für Krefeld.</td>
+<td><a href="mailto:FediNINA_Krefeld@social.prepedia.org">FediNINA_Krefeld@social.prepedia.org</a></td>
+</tr>
+<tr>
+<td>Gospelmusik in Krefeld</td>
+<td><a href="mailto:GospelMusik@krefeld.life">GospelMusik@krefeld.life</a></td>
+</tr>
+<tr>
+<td>Der Jazzkeller Krefeld</td>
+<td><a href="mailto:Jazzkeller@feedbeat.me">Jazzkeller@feedbeat.me</a></td>
+</tr>
+<tr>
+<td>Online-Zeitung für Rhein-Ruhr</td>
+<td><a href="mailto:LokalKlick@nrw.social">LokalKlick@nrw.social</a></td>
+</tr>
+<tr>
+<td>Folklorefest Krefeld</td>
+<td><a href="mailto:Folklorefest@krefeld.life">Folklorefest@krefeld.life</a></td>
+</tr>
+<tr>
+<td>Fest ohne Grenzen</td>
+<td><a href="mailto:FestOhneGrenzen@krefeld.life">FestOhneGrenzen@krefeld.life</a></td>
+</tr>
+<tr>
+<td>Die Grünen Krefeld</td>
+<td><a href="mailto:jtkrefelder@gruene.social">jtkrefelder@gruene.social</a></td>
+</tr>
+<tr>
+<td>Künstlerin</td>
+<td><a href="mailto:Pe@feedbeat.me">Pe@feedbeat.me</a></td>
+</tr>
+<tr>
+<td>ev. Kirche im Ruhrgebiet</td>
+<td><a href="mailto:ruhrPott@kirche.social">ruhrPott@kirche.social</a></td>
+</tr>
+<tr>
+<td>Quäker-Andacht in Krefeld</td>
+<td><a href="mailto:quaker@krefeld.life">quaker@krefeld.life</a></td>
+</tr>
+<tr>
+<td>Lokaler Blogger</td>
+<td><a href="mailto:darestiet@krefeld.life">darestiet@krefeld.life</a></td>
+</tr>
+<tr>
+<td>Lokaler Blogger</td>
+<td><a href="mailto:KRDigital@ruhr.social">KRDigital@ruhr.social</a></td>
+</tr>
+<tr>
+<td>Lokaler Blogger</td>
+<td><a href="mailto:martin_kramer@krefeld.life">martin_kramer@krefeld.life</a></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+<h2 id="virtuelle-gruppen">Virtuelle Gruppen</h2>
+<p>Es ist nicht vorgesehen, in Mastodon Gruppen zu bilden. Es gibt Drittanbieter wie z.B. a.gup.pe die das mit Workaround kompensieren wollen. So gibt es z.B die Gruppe <a href="mailto:krefeld@a.gup.pe">krefeld@a.gup.pe</a>. Wenn du den Account in deinem Beitrag erwähnst, bekommen alle, die diesem Account folgen, deine Nachricht. Diese Option ist aber nicht sehr verbreitet.</p>
+<h2 id="sich-vorstellen">Sich vorstellen</h2>
+<p>Es ist eine gute Idee und Geste, sich auf dem Server vorzustellen, auf dem man seinen Account angelegt hat. Benutze den Hashtag “#neuhier” und “#krefeld” . Moderatoren und Admins auf deinem Server werden höchstwahrscheinlich deinen Post booten, also an ihre Follower weiterleiten. Es liegt an dir, einen Vorstellungstext zu schreiben, der anderen Lust macht, dir zu folgen!</p>
 
 
     
@@ -305,8 +432,8 @@
 
     <h4 class="text-white text-center">Liess weiter</h4>
 
-    <div class="d-flex justify-content-center"><a class="p-1 mr-3 d-inline-block text-white" href="/" title="Mastodon Howto"><i class="fas fa-chevron-left p-1"></i>Mastodon Howto</a>
-        <a class="p-1 ml-3 d-inline-block text-white text-right" href="/01-schluesseleigenschaften/01-01-vorteile-fuer-projekte/" title="Vorteile aus Sicht von Projekten im Quartier">Vorteile aus Sicht von Projekten im Quartier<i class="fas fa-chevron-right p-1"></i></a>
+    <div class="d-flex justify-content-center"><a class="p-1 mr-3 d-inline-block text-white" href="/02-erste-schritte/erste-schritte-bewohner/needs/" title="Was brauche ich, um Mastodon zu benutzen?"><i class="fas fa-chevron-left p-1"></i>Was brauche ich, um Mastodon zu benutzen?</a>
+        <a class="p-1 ml-3 d-inline-block text-white text-right" href="/02-erste-schritte/03-01-erste-schritte-projekt/" title="Erste schritte als als Projekt im Quartier">Erste schritte als als Projekt im Quartier<i class="fas fa-chevron-right p-1"></i></a>
     </div>
 </div>
 

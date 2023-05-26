@@ -16,17 +16,6 @@
     </item>
     
     <item>
-      <title>Erste schritte für Quartierbewohner.Innen</title>
-      <link>http://start.krefeld.life/02-erste-schritte/02-01-erste-schritte-quartierbewohner/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://start.krefeld.life/02-erste-schritte/02-01-erste-schritte-quartierbewohner/</guid>
-      <description>Was brauche ich, um Mastodon zu benutzen? Website/Browser Du kannst Mastodon direkt in deinem Browser benutzen. Ohne Einschränkungen.
-Handy-App(s) Da Mastodon nicht einer einzelnen Firma gehört, steht es jedem frei, eine eigene App zu programmieren. Deshalb hast du die Qual der Wahl. Hier einige Apps die du dir mal ansehen kannst:
-   Name Sterne Downloads Link     Mastodon 3,3 1 Mio+ play.google.com   Tusky 4,2 100.</description>
-    </item>
-    
-    <item>
       <title>Vorteile aus Sicht von Projekten im Quartier</title>
       <link>http://start.krefeld.life/01-schluesseleigenschaften/01-01-vorteile-fuer-projekte/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -34,6 +23,17 @@ Handy-App(s) Da Mastodon nicht einer einzelnen Firma gehört, steht es jedem fre
       <guid>http://start.krefeld.life/01-schluesseleigenschaften/01-01-vorteile-fuer-projekte/</guid>
       <description>Über Mastodon kannst du dein Quartier wissen lassen, welche Aktivitäten dein Projekt plant, durchzuführen und ob es ein Erfolg war. Suchmaschinen finden diese Beiträge. Wenn ihr regelmäßig von Mastodon aus auf Artikel eurer Website verweist, wird die Relevanz euer Website im Ranking steigen. Ihr werdet schneller von euren Interessenten in der Suchmaschine gefunden werden. Eure Sichtbarkeit verbessert sich im Netz und eure Bekanntheit im Quartier.
 Oft ist es so, dass es andere Projekte im Quartier gibt, die ähnliche gelagerte Ziele oder Interessen haben.</description>
+    </item>
+    
+    <item>
+      <title>Was brauche ich, um Mastodon zu benutzen?</title>
+      <link>http://start.krefeld.life/02-erste-schritte/erste-schritte-bewohner/needs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://start.krefeld.life/02-erste-schritte/erste-schritte-bewohner/needs/</guid>
+      <description>Website/Browser Du kannst Mastodon direkt in deinem Browser benutzen. Ohne Einschränkungen.
+Handy-App(s) Da Mastodon nicht einer einzelnen Firma gehört, steht es jedem frei, eine eigene App zu programmieren. Deshalb hast du die Qual der Wahl. Hier einige Apps die du dir mal ansehen kannst:
+   Name Sterne Downloads Link     Mastodon 3,3 1 Mio+ play.google.com   Tusky 4,2 100.000+ play.google.com   Fedilab 4,6 10.</description>
     </item>
     
     <item>
@@ -71,6 +71,15 @@ Was brauche ich, um Mastodon zu benutzen? Manche Organisationen bevorzugen es, e
       
       <guid>http://start.krefeld.life/01-schluesseleigenschaften/01-02-vorteile-bewohner/</guid>
       <description>Du lebst in einem lebendigen Quartier mit spannenden Projekten. Bleib auf dem Laufenden, indem du deinen Projekten auf Mastodon folgst! Das kannst du per Browser oder per App mit deinem Handy. Der Account ist schnell eingerichtet, auch ohne viel Daten preiszugeben. Dabei hast du die Wahl, auf welchem Server du deinen Account einrichtest. Du kannst deinen Account auch jederzeit zu anderen Servern umziehen. Du musst dich und deine Daten nicht an ein Unternehmen ausliefern, dem du nicht traust.</description>
+    </item>
+    
+    <item>
+      <title>Wie baue ich mein eigenes Netzwerk auf?</title>
+      <link>http://start.krefeld.life/02-erste-schritte/erste-schritte-bewohner/networking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://start.krefeld.life/02-erste-schritte/erste-schritte-bewohner/networking/</guid>
+      <description>Wenn du frisch angemeldet bist, wird es in deiner “Timeline” noch recht langweilig aussehen. Erst wenn du Accounts folgst, deren Inhalte dich interessieren, wird sich deine Timeline mit interessanten Benachrichtigungen füllen. Die Frage lautet also: Wie finde ich interessante Accounts? Lokale Timeline Wenn du einen Server ausgewählt hast, der einen Themenschwerpunkt hat, z.B. https://krefeld.life/, kannst du in die lokale Timeline schauen. Hier findest du nur die Beiträge der Accounts dieser Instanz.</description>
     </item>
     
     <item>
