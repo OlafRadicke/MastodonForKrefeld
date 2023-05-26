@@ -4,6 +4,7 @@ baseURL = 'http://start.krefeld.life/'
 languageCode = 'de-de'
 DefaultContentLanguage = "en"
 title = 'Starte mit krefeld.life'
+site_logo = 'pics/Mastodon_logo.svg'
 theme = "ace-documentation"
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"

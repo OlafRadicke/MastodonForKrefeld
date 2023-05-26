@@ -15,6 +15,8 @@ Du kannst Mastodon direkt in deinem Browser benutzen. Ohne Einschränkungen.
 
 Da Mastodon nicht einer einzelnen Firma gehört, steht es jedem frei, eine eigene App zu programmieren. Deshalb hast du die Qual der Wahl. Hier einige Apps die du dir mal ansehen kannst:
 
+
+{{< table style="table-striped" >}}
 | Name      | Sterne | Downloads | Link |
 |-----------|--------|-----------|------|
 | Mastodon  | 3,3    | 1 Mio+    | [play.google.com](https://play.google.com/store/apps/details?id=org.joinmastodon.android)    |
@@ -22,7 +24,7 @@ Da Mastodon nicht einer einzelnen Firma gehört, steht es jedem frei, eine eigen
 | Fedilab   | 4,6    | 10.000+   | [play.google.com](https://play.google.com/store/apps/details?id=app.fedilab.android)         |
 | Megalodon | 4,5    | 5.000+    | [play.google.com](https://play.google.com/store/apps/details?id=org.joinmastodon.android.sk) |
 | Moshidon  | 4,3    | 500+      | [play.google.com](https://play.google.com/store/apps/details?id=org.joinmastodon.android.moshinda) |
-
+{{< /table >}}
 
 ### Wie baue ich mein eigenes Netzwerk auf?
 
@@ -40,6 +42,7 @@ Wenn du einen Server ausgewählt hast, der einen Themenschwerpunkt hat, z.B. htt
 
 Wenn du in lokalen Timelines nach interessanten Accounts durchsuchen willst, sind hier noch einige Server mit Bezug zu Krefeld
 
+{{< table style="table-striped" >}}
 | URL                                  | Kommentar |
 |--------------------------------------|-----------|
 | https://krefeld.life/directory       | Server mit direktem Bezug zu Krefeld |
@@ -47,6 +50,7 @@ Wenn du in lokalen Timelines nach interessanten Accounts durchsuchen willst, sin
 | https://feedbeat.me/about            | Hier geht es vorallem um Kultur, aber die Macher stammen aus Krefeld |
 | https://ruhrpott.social/public/local | Gut, Krefeld ist nicht Ruhrgebiet, aber nahe bei. |
 | https://ruhr.social/public/local     | Noch mal Ruhrgebiet |
+{{< /table >}}
 
 #### Nach Hashtags suchen
 
@@ -61,6 +65,7 @@ Da jeder die freie Wahl hat, wird es auch Accounts geben, die sich mit deinem Qu
 
 Hier ein paar accounts als Vorschlag zum Einstieg:
 
+{{< table style="table-striped" >}}
 | Thema                                     | Account                              |
 |-------------------------------------------|--------------------------------------|
 | Buchladen in Linn                         | eva@krefeld.life                     |
@@ -77,7 +82,7 @@ Hier ein paar accounts als Vorschlag zum Einstieg:
 | Lokaler Blogger                           | darestiet@krefeld.life               |
 | Lokaler Blogger                           | KRDigital@ruhr.social                |
 | Lokaler Blogger                           | martin_kramer@krefeld.life           |
-
+{{< /table >}}
 #### Virtuelle Gruppen
 
 Es ist nicht vorgesehen, in Mastodon Gruppen zu bilden. Es gibt Drittanbieter wie z.B. a.gup.pe die das mit Workaround kompensieren wollen. So gibt es z.B die Gruppe krefeld@a.gup.pe. Wenn du den Account in deinem Beitrag erwähnst, bekommen alle, die diesem Account folgen, deine Nachricht. Diese Option ist aber nicht sehr verbreitet.

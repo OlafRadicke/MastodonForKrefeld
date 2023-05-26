@@ -27,10 +27,26 @@ Installiere dir [Hugo](https://gohugo.io/).
 Als themes wurde [Ace documentation
 More from us](https://docs.vantage-design.com/ace/) verwendet.
 
-Wechsle in das Verzeichnis ./hugo-docu. Rufe "hugo" auf.
+Wechsle in das Verzeichnis
+
+```bash
+$ cd ./hugo-docu
+```
+Rufe
+
+```
+$ hugo
+```
+
+auf.
 Danach hast du im Verzeichnis /public statischen HTML-Code der auf den Webserver übertragen werden
 muss. Jedesmal wenn der Inhalt in /hug-docu/content angepasst wurde, muss der Schritt wiederholt
-werden. Für eine Vorschau, kann der eingebaute Webserver verwendet werden: In dem man "hugo server"
+werden. Für eine Vorschau, kann der eingebaute Webserver verwendet werden: In dem man
+
+```bash
+$ hugo server
+```
+
 aufruft.
 
 

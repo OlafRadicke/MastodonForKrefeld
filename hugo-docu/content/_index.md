@@ -1,6 +1,7 @@
 +++
 title = "Mastodon Howto"
 description = "Einstieg in Mastodon für das Quartier"
+weight = 0
 +++
 
 {{< lead >}}

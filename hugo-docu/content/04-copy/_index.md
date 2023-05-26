@@ -1,7 +1,7 @@
 +++
 title = "Urheber- und Verwendungsrechte"
 description = ""
-weight = 3
+weight = 4
 +++
 
 
