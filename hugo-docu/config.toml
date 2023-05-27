@@ -2,19 +2,20 @@
 baseURL = 'http://start.krefeld.life/'
 
 languageCode = 'de-de'
-DefaultContentLanguage = "en"
-title = 'Starte mit krefeld.life'
-site_logo = 'pics/Mastodon_logo.svg'
+DefaultContentLanguage = "de"
+title = 'Starte mit Mastodon bei krefeld.life'
+site_logo = '/images/Mastodon_logo.svg'
 theme = "ace-documentation"
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"
 
-defaultContentLanguage = "en"
+defaultContentLanguage = "de"
 defaultContentLanguageInSubdir= false
 enableMissingTranslationPlaceholders = false
 
 # Enable Google Analytics by entering your tracking id
 googleAnalytics = ""
+enableRobotsTXT = true
 
 [params]
 ordersectionsby = "weight" # ordersectionsby = "title"
@@ -32,12 +33,12 @@ menushortcutsnewtab = true # set true to open shortcuts links to a new tab/windo
 home = [ "HTML", "RSS", "JSON"]
 
 [[menu.shortcuts]]
-name = "Weiter zu krefeld.life"
+name = "Zu <i><b>krefeld.life</></i>"
 url = "https://krefeld.life/about"
 weight = 1
 
 [[menu.shortcuts]]
-name = "<i class='fab fa-github'></i>"
+name = "Zum Git-Repo"
 url = "https://github.com/OlafRadicke/MastodonForKrefeld"
 weight = 2
 
