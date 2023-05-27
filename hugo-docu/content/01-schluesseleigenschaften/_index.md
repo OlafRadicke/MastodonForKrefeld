@@ -2,9 +2,10 @@
 title = "Schluesseleigenschaften"
 description = "Einstieh in Mastodon im Quartier"
 weight = 1
+tags = ['eins','zwei']
 +++
 
-#### Die wichtigsten Eigenschaften von Mastodon
+## Die wichtigsten Eigenschaften von Mastodon
 
 - Es ist einfach und schnell, sich zu vernetzen, Informationen mit anderen zu teilen und Feedback zu bekommen.
 - Dabei ist das System dezentral, selbstverwaltet und unabhängig von einzelnen (Markt-)Playern.
@@ -12,7 +13,7 @@ weight = 1
 - Die Technologie ist OpenSource.
 
 
-#### Was mastodon nicht ist
+## Was mastodon nicht ist
 
 - Es ist keine Website, auf der man sich detailliert vorstellt und umfangreiche und statische Texte bereitstellt.
 - Es ist kein Chat-Tool

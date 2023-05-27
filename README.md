@@ -38,10 +38,20 @@ Rufe
 $ hugo
 ```
 
-auf.
-Danach hast du im Verzeichnis /public statischen HTML-Code der auf den Webserver übertragen werden
+auf. Danach hast du im Verzeichnis /public statischen HTML-Code der auf den Webserver übertragen werden
 muss. Jedesmal wenn der Inhalt in /hug-docu/content angepasst wurde, muss der Schritt wiederholt
-werden. Für eine Vorschau, kann der eingebaute Webserver verwendet werden: In dem man
+werden.
+
+Wenn der HTML-Code unter einer alternativen URL gehostet werden soll, muss diese beim generieren mitgegeben werden. Z.B wenn sie hier aug GitHub als Preview gehostet werden soll:
+
+```bash
+hugo -b https://olafradicke.github.io/MastodonForKrefeld/ \
+--destination ../docs
+```
+
+Der generierte HTML-Code muss unter /docs liegen mit github pages die Seietn ausliefert. Nach dem commit und push ist die preview hier zu sehen: [https://olafradicke.github.io/MastodonForKrefeld/](https://olafradicke.github.io/MastodonForKrefeld/)
+
+Für eine Vorschau, kann der eingebaute Webserver verwendet werden: In dem man
 
 ```bash
 $ hugo server
