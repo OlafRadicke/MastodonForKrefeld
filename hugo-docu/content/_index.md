@@ -11,3 +11,4 @@ oder wenn du dein Quartier über dein Projekt auf dem Lauffendem
 halten willst.
 {{< /lead >}}
 
+.<center>![Postkare](pics/postkarte.png)</center>

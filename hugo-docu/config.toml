@@ -23,6 +23,10 @@ disableSearch = false # default is false
 disableReadmoreNav = false # set true to hide prev/next navigation, default is false
 highlightClientSide = false # set true to use highlight.pack.js instead of the default hugo chroma highlighter
 menushortcutsnewtab = true # set true to open shortcuts links to a new tab/window
+# Color theme.
+#   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
+# color_theme = "indigo"
+# theme-colors = "indigo"
 
 [markup]
   [markup.goldmark]

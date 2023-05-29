@@ -4,13 +4,14 @@ description = ""
 weight = 2
 +++
 
-{{< lead >}}
+
 Wenn du frisch angemeldet bist, wird es in deiner “Timeline” noch recht langweilig aussehen. Erst wenn du Accounts folgst, deren Inhalte dich interessieren, wird sich deine Timeline mit interessanten Benachrichtigungen füllen. Die Frage lautet also: Wie finde ich interessante Accounts?
-{{< /lead >}}
+
 
 ## Lokale Timeline
 
 Wenn du einen Server ausgewählt hast, der einen Themenschwerpunkt hat, z.B. https://krefeld.life/, kannst du in die lokale Timeline schauen. Hier findest du nur die Beiträge der Accounts dieser Instanz. Also höchstwahrscheinlich wahrscheinlich Beiträge von Accounts, denen der lokale Bezug zu Krefeld wichtig ist. Folge den Accounts, deren Beiträge du interessant findest.
+
 
 | ![local timeline](../../../pics/local-timeline.png)|
 |----------------------------------------------|
